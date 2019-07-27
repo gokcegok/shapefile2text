@@ -8,3 +8,4 @@ information to a .txt file.
 
 I also shared with you some output examples.
 
+Technical description of shapefile: https://www.esri.com/library/whitepapers/pdfs/shapefile.pdf
