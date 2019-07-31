@@ -1,4 +1,4 @@
-# shapefile2text
+# Shapefile Reader(shapefile2text)
 
 A shapefile stores nontopological geometry and attribute information for the spatial features in a data set. 
 The geometry for a feature is stored as a shape comprising a set of vector coordinates. 
